@@ -17,9 +17,5 @@ Contents
 
 .. toctree::
 
-   About This Guide
-   Purpose of RIDGS Social Media
-   Language and Tone
-   Tactics
-   Content Types
-   Visual Guide
+   About this guide
+   API
