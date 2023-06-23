@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+RIDGS Social Media Guide
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**RIDGS** is an inclusive, lively collective that supports transformational, intersectional scholarship in multiple ways. First, it provides space and resources for affiliated faculty and graduate students to engage in and share their work by providing small grants to support research groups, programming funds, and staff support for grant writing and event planning.
 
 Lumache has its documentation hosted on Read the Docs.
 
@@ -20,5 +17,9 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   About This Guide
+   Purpose of RIDGS Social Media
+   Language and Tone
+   Tactics
+   Content Types
+   Visual Guide
